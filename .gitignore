@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments and local tooling
+.venv/
+venv/
+env/
+.env
+
+# Generated model checkpoints and temporary logs
+models/*.pt
+models/*.pth
+models/*.ckpt
+*.log
+
+# Generated figures and experiment outputs are kept in the repository only when
+# explicitly added; ignore transient matplotlib/cache files.
+.matplotlib/
+*.tmp
+*.swp

@@ -1,0 +1,266 @@
+{
+  "simple": {
+    "rrtstar": {
+      "n": 50,
+      "success_rate": 0.28,
+      "success_ci": [
+        0.16,
+        0.42
+      ],
+      "cost_mean_success": 1.8409200687423073,
+      "cost_ci_success": [
+        1.5783303278185499,
+        2.111713793560574
+      ],
+      "time_to_first_mean": 90.64285714285714,
+      "extensions_mean": 110.02,
+      "clearance_mean_success": 0.0975321545123059
+    },
+    "fixed_mixed": {
+      "n": 50,
+      "success_rate": 0.74,
+      "success_ci": [
+        0.62,
+        0.86
+      ],
+      "cost_mean_success": 1.1189178766483836,
+      "cost_ci_success": [
+        0.9527327656080543,
+        1.2825013545968083
+      ],
+      "time_to_first_mean": 49.91891891891892,
+      "extensions_mean": 105.52,
+      "clearance_mean_success": 0.1718598211382034
+    },
+    "soft_adaptive": {
+      "n": 50,
+      "success_rate": 0.9,
+      "success_ci": [
+        0.8,
+        0.98
+      ],
+      "cost_mean_success": 1.4015448884932955,
+      "cost_ci_success": [
+        1.2845090451010863,
+        1.5149973326217931
+      ],
+      "time_to_first_mean": 37.77777777777778,
+      "extensions_mean": 103.96,
+      "clearance_mean_success": 0.08856220939972301
+    },
+    "faroni_inspired": {
+      "n": 50,
+      "success_rate": 0.28,
+      "success_ci": [
+        0.16,
+        0.42
+      ],
+      "cost_mean_success": 1.743419208900194,
+      "cost_ci_success": [
+        1.5614779240184364,
+        1.9313147108349251
+      ],
+      "time_to_first_mean": 90.64285714285714,
+      "extensions_mean": 110.18,
+      "clearance_mean_success": 0.08817817023345031
+    }
+  },
+  "medium": {
+    "rrtstar": {
+      "n": 50,
+      "success_rate": 0.16,
+      "success_ci": [
+        0.06,
+        0.26
+      ],
+      "cost_mean_success": 1.8962543214070995,
+      "cost_ci_success": [
+        1.5477500062752616,
+        2.2576533059475343
+      ],
+      "time_to_first_mean": 93.0,
+      "extensions_mean": 86.82,
+      "clearance_mean_success": 0.09886175584446885
+    },
+    "fixed_mixed": {
+      "n": 50,
+      "success_rate": 0.32,
+      "success_ci": [
+        0.2,
+        0.46
+      ],
+      "cost_mean_success": 1.2428461576620395,
+      "cost_ci_success": [
+        0.9866973122497084,
+        1.464387267206927
+      ],
+      "time_to_first_mean": 48.3125,
+      "extensions_mean": 78.92,
+      "clearance_mean_success": 0.10048968764902658
+    },
+    "soft_adaptive": {
+      "n": 50,
+      "success_rate": 0.56,
+      "success_ci": [
+        0.42,
+        0.7
+      ],
+      "cost_mean_success": 1.4834375087211362,
+      "cost_ci_success": [
+        1.3222349593724894,
+        1.6432269782592777
+      ],
+      "time_to_first_mean": 62.035714285714285,
+      "extensions_mean": 73.06,
+      "clearance_mean_success": 0.058328664436297716
+    },
+    "faroni_inspired": {
+      "n": 50,
+      "success_rate": 0.16,
+      "success_ci": [
+        0.06,
+        0.26
+      ],
+      "cost_mean_success": 1.3646233071800784,
+      "cost_ci_success": [
+        1.1713412629822588,
+        1.585816278125331
+      ],
+      "time_to_first_mean": 93.0,
+      "extensions_mean": 86.98,
+      "clearance_mean_success": 0.06679104224972729
+    }
+  },
+  "hard": {
+    "rrtstar": {
+      "n": 50,
+      "success_rate": 0.1,
+      "success_ci": [
+        0.02,
+        0.18
+      ],
+      "cost_mean_success": 1.6717507578965987,
+      "cost_ci_success": [
+        1.1535377665993596,
+        2.181699876336528
+      ],
+      "time_to_first_mean": 99.2,
+      "extensions_mean": 71.56,
+      "clearance_mean_success": 0.07201665175610535
+    },
+    "fixed_mixed": {
+      "n": 50,
+      "success_rate": 0.14,
+      "success_ci": [
+        0.04,
+        0.24
+      ],
+      "cost_mean_success": 1.285857494388752,
+      "cost_ci_success": [
+        0.8849536795894793,
+        1.5413763720723492
+      ],
+      "time_to_first_mean": 53.857142857142854,
+      "extensions_mean": 64.86,
+      "clearance_mean_success": 0.06316046770973338
+    },
+    "soft_adaptive": {
+      "n": 50,
+      "success_rate": 0.36,
+      "success_ci": [
+        0.24,
+        0.5
+      ],
+      "cost_mean_success": 1.3876125341954726,
+      "cost_ci_success": [
+        1.148356209844322,
+        1.609426327548959
+      ],
+      "time_to_first_mean": 68.38888888888889,
+      "extensions_mean": 57.46,
+      "clearance_mean_success": 0.040263614617804554
+    },
+    "faroni_inspired": {
+      "n": 50,
+      "success_rate": 0.1,
+      "success_ci": [
+        0.02,
+        0.18
+      ],
+      "cost_mean_success": 1.259002113989694,
+      "cost_ci_success": [
+        1.0290493339398648,
+        1.4887350647148938
+      ],
+      "time_to_first_mean": 99.2,
+      "extensions_mean": 71.64,
+      "clearance_mean_success": 0.05111956655976528
+    }
+  },
+  "all": {
+    "rrtstar": {
+      "n": 150,
+      "success_rate": 0.18,
+      "success_ci": [
+        0.12,
+        0.24666666666666667
+      ],
+      "cost_mean_success": 1.825987752708596,
+      "cost_ci_success": [
+        1.616266779405728,
+        2.0319338608077335
+      ],
+      "time_to_first_mean": 92.92592592592592,
+      "extensions_mean": 89.46666666666667,
+      "clearance_mean_success": 0.09320101735957631
+    },
+    "fixed_mixed": {
+      "n": 150,
+      "success_rate": 0.4,
+      "success_ci": [
+        0.32666666666666666,
+        0.48
+      ],
+      "cost_mean_success": 1.1714417069884016,
+      "cost_ci_success": [
+        1.0442824072813022,
+        1.2975848795864204
+      ],
+      "time_to_first_mean": 49.95,
+      "extensions_mean": 83.1,
+      "clearance_mean_success": 0.14014619430776806
+    },
+    "soft_adaptive": {
+      "n": 150,
+      "success_rate": 0.6066666666666667,
+      "success_ci": [
+        0.5266666666666666,
+        0.6866666666666666
+      ],
+      "cost_mean_success": 1.4239867674935014,
+      "cost_ci_success": [
+        1.3318308520314048,
+        1.5095477168521223
+      ],
+      "time_to_first_mean": 51.2967032967033,
+      "extensions_mean": 78.16,
+      "clearance_mean_success": 0.06970601198158631
+    },
+    "faroni_inspired": {
+      "n": 150,
+      "success_rate": 0.18,
+      "success_ci": [
+        0.12,
+        0.24666666666666667
+      ],
+      "cost_mean_success": 1.5414765167404376,
+      "cost_ci_success": [
+        1.3939211636516673,
+        1.6840559449116546
+      ],
+      "time_to_first_mean": 92.92592592592592,
+      "extensions_mean": 89.6,
+      "clearance_mean_success": 0.07497853903944256
+    }
+  }
+}

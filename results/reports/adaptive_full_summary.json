@@ -1,0 +1,178 @@
+{
+  "simple": {
+    "rrtstar": {
+      "n": 8,
+      "success_rate": 0.25,
+      "success_ci": [
+        0.0,
+        0.5
+      ],
+      "cost_success_mean": 1.2088178634847697,
+      "cost_success_ci": [
+        1.0493090142928794,
+        1.3683267126766598
+      ],
+      "extensions_mean": 88.75
+    },
+    "fixed_mixed": {
+      "n": 8,
+      "success_rate": 0.625,
+      "success_ci": [
+        0.25,
+        0.875
+      ],
+      "cost_success_mean": 0.9455938202215893,
+      "cost_success_ci": [
+        0.524211588354673,
+        1.3669760520885057
+      ],
+      "extensions_mean": 86.5
+    },
+    "adaptive": {
+      "n": 8,
+      "success_rate": 0.25,
+      "success_ci": [
+        0.0,
+        0.5
+      ],
+      "cost_success_mean": 1.705469938896346,
+      "cost_success_ci": [
+        1.6007942561457928,
+        1.810145621646899
+      ],
+      "extensions_mean": 89.125
+    }
+  },
+  "medium": {
+    "rrtstar": {
+      "n": 8,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.375
+      ],
+      "cost_success_mean": 1.162372351327645,
+      "cost_success_ci": [
+        1.162372351327645,
+        1.162372351327645
+      ],
+      "extensions_mean": 67.375
+    },
+    "fixed_mixed": {
+      "n": 8,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.375
+      ],
+      "cost_success_mean": 1.4692280112283784,
+      "cost_success_ci": [
+        1.4692280112283784,
+        1.4692280112283784
+      ],
+      "extensions_mean": 51.5
+    },
+    "adaptive": {
+      "n": 8,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.375
+      ],
+      "cost_success_mean": 1.5882422721241394,
+      "cost_success_ci": [
+        1.5882422721241394,
+        1.5882422721241394
+      ],
+      "extensions_mean": 67.375
+    }
+  },
+  "hard": {
+    "rrtstar": {
+      "n": 8,
+      "success_rate": 0.0,
+      "success_ci": [
+        0.0,
+        0.0
+      ],
+      "cost_success_mean": null,
+      "cost_success_ci": [
+        NaN,
+        NaN
+      ],
+      "extensions_mean": 57.875
+    },
+    "fixed_mixed": {
+      "n": 8,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.375
+      ],
+      "cost_success_mean": 1.4574987899393057,
+      "cost_success_ci": [
+        1.4574987899393057,
+        1.4574987899393057
+      ],
+      "extensions_mean": 50.25
+    },
+    "adaptive": {
+      "n": 8,
+      "success_rate": 0.0,
+      "success_ci": [
+        0.0,
+        0.0
+      ],
+      "cost_success_mean": null,
+      "cost_success_ci": [
+        NaN,
+        NaN
+      ],
+      "extensions_mean": 57.875
+    }
+  },
+  "all": {
+    "rrtstar": {
+      "n": 24,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.25
+      ],
+      "cost_success_mean": 1.1933360260990613,
+      "cost_success_ci": [
+        1.0493090142928794,
+        1.3683267126766598
+      ],
+      "extensions_mean": 71.33333333333333
+    },
+    "fixed_mixed": {
+      "n": 24,
+      "success_rate": 0.2916666666666667,
+      "success_ci": [
+        0.125,
+        0.5
+      ],
+      "cost_success_mean": 1.0935279860393758,
+      "cost_success_ci": [
+        0.714089680940909,
+        1.4159864301545924
+      ],
+      "extensions_mean": 62.75
+    },
+    "adaptive": {
+      "n": 24,
+      "success_rate": 0.125,
+      "success_ci": [
+        0.0,
+        0.25
+      ],
+      "cost_success_mean": 1.6663940499722771,
+      "cost_success_ci": [
+        1.5882422721241394,
+        1.810145621646899
+      ],
+      "extensions_mean": 71.45833333333333
+    }
+  }
+}

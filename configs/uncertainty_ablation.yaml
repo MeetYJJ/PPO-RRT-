@@ -1,0 +1,8 @@
+scene_difficulties: [simple, medium, hard]
+smoke_scenes_per_level: 5
+formal_target_scenes_per_level: 50
+uncertainty_levels: [0.02, 0.05, 0.10, 0.20]
+position_units: meter
+orientation_units: radian
+covariance_frame: local_se3_log_coordinates
+max_iter: 120

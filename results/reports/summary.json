@@ -1,0 +1,14 @@
+{
+  "success_mean": 0.5555555555555556,
+  "success_n": 45,
+  "trans_length_mean": 1.159872995214252,
+  "trans_length_n": 25,
+  "rot_change_mean": 0.9474338336584149,
+  "rot_change_n": 25,
+  "cost_mean": 1.3939273757541404,
+  "cost_n": 25,
+  "extensions_mean": 148.93333333333334,
+  "extensions_n": 45,
+  "collision_checks_mean": 512.8444444444444,
+  "collision_checks_n": 45
+}
