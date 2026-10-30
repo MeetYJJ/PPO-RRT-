@@ -15,6 +15,9 @@ env/
 models/*.pt
 models/*.pth
 models/*.ckpt
+results/**/*.pt
+results/**/*.pth
+results/**/*.ckpt
 *.log
 
 # Generated figures and experiment outputs are kept in the repository only when
